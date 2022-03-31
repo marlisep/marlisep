@@ -16,7 +16,7 @@
 
 ---
 
-### :woman_technologist: About Me : I'm an accountant turned security analyst, with a thirst for knowledge and unrivaled curiousity. Just trying to hack my way through life. :rocket:
+### :woman_technologist: About Me : I'm an accountant turned security analyst. Just trying to hack my way through life. :rocket:
 
 - 🔭 I’m currently working on ... myself.
 - 🌱 I’m currently learning Github, Cloud technologies, hacking stuff.
