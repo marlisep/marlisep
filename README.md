@@ -19,7 +19,7 @@
 ### :woman_technologist: About Me : I'm an accountant turned security analyst. Just trying to hack my way through life. :rocket:
 
 - 🔭 I’m currently working on ... myself.
-- 🌱 I’m currently learning Github, Cloud technologies, hacking stuff.
+- 🌱 I’m currently learning Github, Cloud technologies, mobile hacking stuff.
 - 💬 Ask me about ZA music, yoga, running, meditation or life in general.
 - 🏖️ In my free time, I read or learn more new things.
 - ⚡ Fun fact: No day should be started without coffee...or music.
