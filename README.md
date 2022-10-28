@@ -18,8 +18,8 @@
 
 ### :woman_technologist: About Me : I'm an accountant turned security analyst. Just trying to hack my way through life. :rocket:
 
-- 🔭 I’m currently working on ... my technical skills.
-- 🌱 I’m currently learning about web application security, CI/CD pipelines and supply chain attacks.
+- 🔭 I’m currently working on ... web application security.
+- 🌱 I’m currently interested in CI/CD pipelines and supply chain attacks.
 - 💬 Ask me about ZA music, yoga, running, meditation or life in general.
 - 🏖️ In my free time, I read or learn more new things.
 - ⚡ Fun fact: No day should be started without coffee...or music.
