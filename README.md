@@ -16,16 +16,16 @@
 
 ---
 
-### :woman_technologist: About Me : I'm an accountant turned security analyst. Just trying to hack my way through life. :rocket:
+### :woman_technologist: About Me : I'm an accountant with an interest in tech. Just trying to hack my way through life. :rocket:
 
-- 🔭 I’m currently working on ... web application security.
-- 🌱 I’m currently interested in CI/CD pipelines and supply chain attacks.
+- 🔭 I’m currently working on ... new hobbies.
+- 🌱 I’m currently interested in The Odin Project.
 - 💬 Ask me about ZA music, yoga, running, meditation or life in general.
 - 🏖️ In my free time, I read or learn more new things.
 - ⚡ Fun fact: No day should be started without coffee...or music.
 
 ---
-
+<!--
 ### :hammer_and_wrench: Languages and Tools : 
 
 <div>
@@ -34,7 +34,7 @@
  </div>
 
 ---
-
+-->
 ### :fire: My Stats :
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Blouwolf&theme=dark&background=000000)](https://git.io/streak-stats)
 
