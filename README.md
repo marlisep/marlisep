@@ -18,11 +18,11 @@
 
 ### :woman_technologist: About Me : I'm an accountant with an interest in tech. Just trying to hack my way through life. :rocket:
 
-- 🔭 I’m currently working on ... new hobbies.
-- 🌱 I’m currently interested in The Odin Project.
+- 🔭 I’m currently working on the Google Cybersecurity Certificate.
+- 🌱 I’m currently interested in cybersecurity.
 - 💬 Ask me about ZA music, yoga, running, meditation or life in general.
-- 🏖️ In my free time, I read or learn more new things.
-- ⚡ Fun fact: No day should be started without coffee...or music.
+- 🏖️ In my free time, I read or learn new things.
+- ⚡ Progress > perfection.
 
 ---
 <!--
